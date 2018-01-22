@@ -20,11 +20,11 @@ data a directory with input file
 results a directory with output file
 
 ## Results: <a name="results"></a>
-
+RMSE = [0.0758215, 0.0842188, 0.632344, 0.580668]
 - position accuracy
-![](images/img.JPG) 
+![](images/image.JPG) 
 - position accuracy
-![](images/img1.JPG) 
+![](images/image1.JPG) 
 
 ## Other Important Dependencies
 * cmake >= 3.5
